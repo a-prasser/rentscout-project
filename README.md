@@ -56,7 +56,7 @@ This main repo includes:
 - ✅ [Presentation 2 Slides](presentation2)  
 - 🧭 [Original UI Mockups](mockup)  
 - 🏘️ [Property Street Views](HousePictures)  
-- 📘 [Help Documentation]([docs/Help_Documentation.docx](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/RentScout%20Help%20Page.docx))
+- 📘 [Help Documentation](https://github.com/a-prasser/rentscout-project/blob/main/RentScout%20Help%20Page.docx)
 
 ---
 
@@ -64,8 +64,8 @@ This main repo includes:
 
 As part of our iterative design process, we conducted multiple usability tests to improve clarity, navigation, and layout. Documentation includes:
 - 📄 [Test Script](UsabilityTestScript.docx)  
-- ✅ [Test Report]([RentScout](https://github.com/calvin-cs262-fall2024-teamG/Project/blob/main/RentScout%20Usability%20Test%20Report.docx))  
-- 💬 [Test Notes](usability-tests)  
+- ✅ [Test Report](https://github.com/a-prasser/rentscout-project/blob/main/RentScout%20Usability%20Test%20Report.docx)  
+- 💬 [Test Notes](usabilityTests)  
 
 ---
 
